@@ -3,7 +3,7 @@
 ## 🚀 Passionate Full Stack Developer
 
 [![Website](https://img.shields.io/badge/Website-sarthakjain.xyz-red)](https://sarthakjain.xyz)
-[![Email](https://img.shields.io/badge/Email-me@sarthakjain.xyz-orange)](mailto:me@sarthakjain.xyz)
+[![Email](https://img.shields.io/badge/Email-sarthak@stellarstudios.xyz-orange)](mailto:sarthak@stellarstudios.xyz)
 [![SourceXchange](https://img.shields.io/badge/SourceXchange-Profile-purple)](https://www.sourcexchange.net/teams/1693/profile)
 [![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Profile-blue)](https://builtbybit.com/creators/sarthak77.383227)
 
