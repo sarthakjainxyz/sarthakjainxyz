@@ -34,7 +34,7 @@ I'm a self-driven developer who loves building modern web applications, server a
 I'd love to collaborate or just chat about cool stuffs!
 
 - 🌐 [Website](https://sarthakjain.xyz)
-- 📧 [Email](mailto:me@sarthakjain.xyz)
+- 📧 [Email](mailto:sarthak@stellarstudios.xyz)
 - 💬 [Discord](https://discord.com/users/877064899065446461)
 - 🌟 [SourceXchange](https://www.sourcexchange.net/teams/1693/profile)
 - 🌟 [BuiltByBit](https://builtbybit.com/creators/sarthak77.383227)
